@@ -17,6 +17,15 @@
       "Email": "son.goku@toriyama.jp",
       "Role": "VOYAGEUR",
       "Date-Heure": "Header:date-heure"
+    },
+    {
+      "id": 3,
+      "Login": 3,
+      "Prénom": "Kuririn",
+      "Nom": "",
+      "Email": "kuririn@toriyama.jp",
+      "Role": "VOYAGEUR",
+      "Date-Heure": "Header:date-heure"
     }
   ],
   "droit": [
