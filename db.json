@@ -28,7 +28,7 @@
       "Date-Heure": "Header:date-heure"
     }
   ],
-  "droit": [
+  "droits": [
     {
       "id": 1,
       "ajouté par": {
@@ -80,7 +80,7 @@
       }
     }
   ],
-  "unlock": [
+  "unlocks": [
     {
       "id": 1,
       "hebergement": {
