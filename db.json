@@ -26,6 +26,15 @@
       "Email": "kuririn@toriyama.jp",
       "Role": "VOYAGEUR",
       "Date-Heure": "Header:date-heure"
+    },
+    {
+      "id": 4,
+      "Login": 4,
+      "Prénom": "Lunch",
+      "Nom": "",
+      "Email": "lunch@bipolaire.jp",
+      "Role": "VOYAGEUR",
+      "Date-Heure": "Header:date-heure"
     }
   ],
   "droits": [
@@ -103,6 +112,31 @@
         "date-deb": "10/08/2018",
         "date-fin": "12/08/2018"
       }
+    },
+    {
+      "id": 4,
+      "ajouté par": {
+        "Nom": "Kame sennin",
+        "Prenom": "Tortue Géniale",
+        "Email": "kame.sennin@toriyama.jp",
+        "Role": "GESTIONNAIRE",
+        "Date-Heure ajout": "Header:date-heure"
+      },
+      "hebergement": {
+        "hebergement_id": 1,
+        "hebergement_nom": "Kame House",
+        "adresse": {
+          "codePostal": "string",
+          "pays": "string",
+          "rue": "string",
+          "ville": "string"
+        }
+      },
+      "beneficiaire": {
+        "login": 127,
+        "date-deb": "10/08/2018",
+        "date-fin": "12/08/2018"
+      }
     }
   ],
   "unlocks": [
@@ -146,6 +180,28 @@
           "Prénom": "Bulma",
           "Nom": "",
           "Email": "bulma@capsule.corp",
+          "Role": "VOYAGEUR"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "hebergement": {
+        "hebergement_id": 1,
+        "hebergement_nom": "Kame House",
+        "adresse": {
+          "codePostal": "string",
+          "pays": "string",
+          "rue": "string",
+          "ville": "string"
+        },
+        "access_id": 1,
+        "date_heure": "header: date-heure",
+        "demandeur": {
+          "Login": 3,
+          "Prénom": "Lunch",
+          "Nom": "",
+          "Email": "lunch@bipolaire.jp",
           "Role": "VOYAGEUR"
         }
       }
