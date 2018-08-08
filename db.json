@@ -78,6 +78,31 @@
         "date-deb": "09/08/2018",
         "date-fin": "11/08/2018"
       }
+    },
+    {
+      "id": 3,
+      "ajouté par": {
+        "Nom": "Kame sennin",
+        "Prenom": "Tortue Géniale",
+        "Email": "kame.sennin@toriyama.jp",
+        "Role": "GESTIONNAIRE",
+        "Date-Heure ajout": "Header:date-heure"
+      },
+      "hebergement": {
+        "hebergement_id": 1,
+        "hebergement_nom": "Kame House",
+        "adresse": {
+          "codePostal": "string",
+          "pays": "string",
+          "rue": "string",
+          "ville": "string"
+        }
+      },
+      "beneficiaire": {
+        "login": 126,
+        "date-deb": "10/08/2018",
+        "date-fin": "12/08/2018"
+      }
     }
   ],
   "unlocks": [
