@@ -214,6 +214,28 @@
           "Role": "VOYAGEUR"
         }
       }
+    },
+    {
+      "id": 4,
+      "hebergement": {
+        "hebergement_id": 1,
+        "hebergement_nom": "Kame House",
+        "adresse": {
+          "codePostal": "string",
+          "pays": "string",
+          "rue": "string",
+          "ville": "string"
+        },
+        "access_id": 1,
+        "date_heure": "header: date-heure",
+        "demandeur": {
+          "Login": 3,
+          "Prénom": "Plume",
+          "Nom": "",
+          "Email": "plume@toriyama.jp",
+          "Role": "VOYAGEUR"
+        }
+      }
     }
   ],
   "usershooks": [
