@@ -271,6 +271,15 @@
       "Email": "gotrunks@toriyama.jp",
       "Role": "VOYAGEUR",
       "Date": "Header:date-heure"
+    },
+    {
+      "id": 6,
+      "Login": 6,
+      "Prenom": "Trunks",
+      "Nom": "UPDATED",
+      "Email": "trunks@toriyama.jp",
+      "Role": "VOYAGEUR",
+      "Date": "Header:date-heure"
     }
   ]
 }
