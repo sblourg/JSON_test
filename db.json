@@ -280,6 +280,15 @@
       "Email": "trunks@toriyama.jp",
       "Role": "VOYAGEUR",
       "Date": "Header:date-heure"
+    },
+    {
+      "id": 7,
+      "Login": 7,
+      "Prenom": "Yajirobe",
+      "Nom": "UPDATED",
+      "Email": "Yajirobe@toriyama.jp",
+      "Role": "VOYAGEUR",
+      "Date": "Header:date-heure"
     }
   ]
 }
