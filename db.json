@@ -63,7 +63,8 @@
           "Item4": "item4-24"
         }
       ]
-    },{
+    },
+    {
       "id": 3,
       "Login": 3,
       "Prenom": "Goten",
@@ -86,6 +87,8 @@
           "Item3": "itemgoten-22",
           "Item4": "itemgoten-22"
         }
+      ]
+    }
   ],
   "droits": [
     {
