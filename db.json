@@ -7,7 +7,27 @@
       "Nom": "Cell",
       "Email": "perfect.cell@toriyama.jp",
       "Role": "VOYAGEUR",
-      "Date": "Header:date-heure"
+      "Date": "Header:date-heure",
+      "ObjetTest": [
+        {
+          "item": {
+            "id":1,
+            "Item1": "item1-1",
+            "Item2": "item2-1",
+            "Item3": "item3-1",
+            "Item4": "item4-1"
+          }
+        },
+        {
+          "item": {
+            "id":2,
+            "Item1": "item1-12",
+            "Item2": "item2-12",
+            "Item3": "item3-12",
+            "Item4": "item4-12"
+          }
+        }
+      ]
     },
     {
       "id": 2,
@@ -16,52 +36,27 @@
       "Nom": "Son",
       "Email": "son.goku@toriyama.jp",
       "Role": "VOYAGEUR",
-      "Date": "Header:date-heure"
-    },
-    {
-      "id": 3,
-      "Login": 3,
-      "Prenom": "Kuririn",
-      "Nom": "",
-      "Email": "kuririn@toriyama.jp",
-      "Role": "VOYAGEUR",
-      "Date": "Header:date-heure"
-    },
-    {
-      "id": 4,
-      "Login": 4,
-      "Prenom": "Lunch",
-      "Nom": "",
-      "Email": "lunch@bipolaire.jp",
-      "Role": "VOYAGEUR",
-      "Date": "Header:date-heure"
-    },
-    {
-      "id": 5,
-      "Login": 6,
-      "Prenom": "Raditz",
-      "Nom": "Son",
-      "Email": "raditz@toriyama.jp",
-      "Role": "VOYAGEUR",
-      "Date": "Header:date-heure"
-    },
-    {
-      "id": 6,
-      "Login": 6,
-      "Prenom": "Goten",
-      "Nom": "Son",
-      "Email": "songoten@toriyama.jp",
-      "Role": "VOYAGEUR",
-      "Date": "Header:date-heure"
-    },
-    {
-      "id": 7,
-      "Login": 7,
-      "Prenom": "Gohan",
-      "Nom": "",
-      "Email": "songoten@toriyama.jp",
-      "Role": "VOYAGEUR",
-      "Date": "Header:date-heure"
+      "Date": "Header:date-heure",
+      "ObjetTest": [
+        {
+          "item": {
+            "id":3,
+            "Item1": "item1-2",
+            "Item2": "item2-2",
+            "Item3": "item3-2",
+            "Item4": "item4-2"
+          }
+        },
+        {
+          "item": {
+            "id":4,
+            "Item1": "item1-22",
+            "Item2": "item2-22",
+            "Item3": "item3-22",
+            "Item4": "item4-22"
+          }
+        }
+      ]
     }
   ],
   "droits": [
@@ -171,7 +166,6 @@
       "id": 1,
       "hebergement_id": 1,
       "hebergement": {
-
         "hebergement_nom": "Kame House",
         "adresse": {
           "codePostal": "string",
@@ -194,7 +188,6 @@
       "id": 2,
       "hebergement_id": 1,
       "hebergement": {
-
         "hebergement_nom": "Kame House",
         "adresse": {
           "codePostal": "string",
@@ -217,7 +210,6 @@
       "id": 3,
       "hebergement_id": 2,
       "hebergement": {
-
         "hebergement_nom": "Kame House2",
         "adresse": {
           "codePostal": "string",
@@ -240,7 +232,6 @@
       "id": 4,
       "hebergement_id": 2,
       "hebergement": {
-
         "hebergement_nom": "Kame House2",
         "adresse": {
           "codePostal": "string",
@@ -305,8 +296,7 @@
       "Email": "son.gohan@toriyama.jp",
       "Role": "VOYAGEUR",
       "Date": "Header:date-heure"
-    }
-  ,
+    },
     {
       "id": 6,
       "Login": 6,
