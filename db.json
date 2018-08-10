@@ -44,6 +44,15 @@
       "Email": "raditz@toriyama.jp",
       "Role": "VOYAGEUR",
       "Date": "Header:date-heure"
+    },
+    {
+      "id": 6,
+      "Login": 6,
+      "Prenom": "Goten",
+      "Nom": "Son",
+      "Email": "songoten@toriyama.jp",
+      "Role": "VOYAGEUR",
+      "Date": "Header:date-heure"
     }
   ],
   "droits": [
