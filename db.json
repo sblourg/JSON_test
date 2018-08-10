@@ -169,8 +169,9 @@
   "unlocks": [
     {
       "id": 1,
+      "hebergement_id": 1,
       "hebergement": {
-        "hebergement_id": 1,
+
         "hebergement_nom": "Kame House",
         "adresse": {
           "codePostal": "string",
@@ -179,7 +180,7 @@
           "ville": "string"
         },
         "access_id": 1,
-        "date_heure": "header: date-heure",
+        "date_heure": "TEST1",
         "demandeur": {
           "Login": 2,
           "Prénom": "Goku",
@@ -191,8 +192,9 @@
     },
     {
       "id": 2,
+      "hebergement_id": 1,
       "hebergement": {
-        "hebergement_id": 1,
+
         "hebergement_nom": "Kame House",
         "adresse": {
           "codePostal": "string",
@@ -201,7 +203,7 @@
           "ville": "string"
         },
         "access_id": 1,
-        "date_heure": "header: date-heure",
+        "date_heure": "TEST2",
         "demandeur": {
           "Login": 3,
           "Prénom": "Bulma",
@@ -213,9 +215,10 @@
     },
     {
       "id": 3,
+      "hebergement_id": 2,
       "hebergement": {
-        "hebergement_id": 1,
-        "hebergement_nom": "Kame House",
+
+        "hebergement_nom": "Kame House2",
         "adresse": {
           "codePostal": "string",
           "pays": "string",
@@ -235,9 +238,10 @@
     },
     {
       "id": 4,
+      "hebergement_id": 2,
       "hebergement": {
-        "hebergement_id": 1,
-        "hebergement_nom": "Kame House",
+
+        "hebergement_nom": "Kame House2",
         "adresse": {
           "codePostal": "string",
           "pays": "string",
