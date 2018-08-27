@@ -367,5 +367,23 @@
       "Role": "VOYAGEUR",
       "Date": "Header:date-heure"
     }
-  ]
+  ],
+  "userHooks":
+    [
+      {
+        "Prenom": "Bryan",
+        "nom": "Helmig",
+        "Login": 27
+      },
+      {
+        "Prenom": "Mike",
+        "nom": "Knoop",
+        "Login": 28
+      },
+      {
+        "Prenom": "Wade",
+        "nom": "Foster",
+        "Login": 29
+      }
+    ]
 }
