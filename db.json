@@ -391,51 +391,6 @@
       "Email": "son.gohan@toriyama.jp",
       "Role": "VOYAGEUR",
       "Date": "Header:date-heure"
-    },
-    {
-      "id": 6,
-      "Login": 6,
-      "Prenom": "Gotrunks",
-      "Nom": "UPDATED",
-      "Email": "gotrunks@toriyama.jp",
-      "Role": "VOYAGEUR",
-      "Date": "Header:date-heure"
-    },
-    {
-      "id": 6,
-      "Login": 6,
-      "Prenom": "Trunks",
-      "Nom": "UPDATED",
-      "Email": "trunks@toriyama.jp",
-      "Role": "VOYAGEUR",
-      "Date": "Header:date-heure"
-    },
-    {
-      "id": 7,
-      "Login": 7,
-      "Prenom": "Yajirobe",
-      "Nom": "UPDATED",
-      "Email": "Yajirobe@toriyama.jp",
-      "Role": "VOYAGEUR",
-      "Date": "Header:date-heure"
-    },
-    {
-      "id": 8,
-      "Login": 8,
-      "Prenom": "Popo",
-      "Nom": "UPDATED",
-      "Email": "Popo@toriyama.jp",
-      "Role": "VOYAGEUR",
-      "Date": "Header:date-heure"
-    },
-    {
-      "id": 9,
-      "Login": 9,
-      "Prenom": "Pilaf",
-      "Nom": "UPDATED",
-      "Email": "Pilaf@toriyama.jp",
-      "Role": "VOYAGEUR",
-      "Date": "Header:date-heure"
     }
   ]
 }
