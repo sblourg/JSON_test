@@ -204,6 +204,31 @@
         "date-deb": "28/08/2018",
         "date-fin": "30/08/2018"
       }
+    },
+    {
+      "id": 4,
+      "ajouté par": {
+        "Nom": "Géniale",
+        "Prenom": "Tortue",
+        "Email": "kame.sennin@toriyama.jp",
+        "Role": "GESTIONNAIRE",
+        "Date-Heure ajout": "Header:date-heure"
+      },
+      "hebergement": {
+        "hebergement_id": 1,
+        "hebergement_nom": "Kame House",
+        "adresse": {
+          "codePostal": "31000",
+          "pays": "France",
+          "rue": "4 rue des Potiers",
+          "ville": "Toulouse"
+        }
+      },
+      "beneficiaire": {
+        "login": "Kuririn",
+        "date-deb": "28/08/2018",
+        "date-fin": "30/08/2018"
+      }
     }
   ],
   "unlocks": [
